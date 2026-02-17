@@ -1,3 +1,2 @@
-ls
-ls -l
-echo blqblqblq
+#!/bin/bash
+su 
